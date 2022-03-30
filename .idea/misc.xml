@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/myhealth/app/src/main/res/layout-w1240dp/content_scrolling.xml" value="0.1606425702811245" />
+        <entry key="..\:/myhealth/app/src/main/res/layout-w936dp/content_scrolling.xml" value="0.1875" />
+        <entry key="..\:/myhealth/app/src/main/res/layout/activity_blog.xml" value="0.25" />
+        <entry key="..\:/myhealth/app/src/main/res/layout/activity_blogs.xml" value="0.25" />
+        <entry key="..\:/myhealth/app/src/main/res/layout/activity_call.xml" value="0.264" />
+        <entry key="..\:/myhealth/app/src/main/res/layout/activity_discussion.xml" value="0.25" />
+        <entry key="..\:/myhealth/app/src/main/res/layout/activity_discussion2.xml" value="0.25" />
+        <entry key="..\:/myhealth/app/src/main/res/layout/activity_main.xml" value="0.22327898550724637" />
+        <entry key="..\:/myhealth/app/src/main/res/layout/activity_maps.xml" value="0.234375" />
+        <entry key="..\:/myhealth/app/src/main/res/layout/activity_netmed.xml" value="0.234375" />
+        <entry key="..\:/myhealth/app/src/main/res/layout/activity_netmed2.xml" value="0.234375" />
+        <entry key="..\:/myhealth/app/src/main/res/layout/activity_onlineshop.xml" value="0.234375" />
+        <entry key="..\:/myhealth/app/src/main/res/layout/activity_periodtracked.xml" value="0.25" />
+        <entry key="..\:/myhealth/app/src/main/res/layout/activity_periodtracker.xml" value="0.25" />
+        <entry key="..\:/myhealth/app/src/main/res/layout/blog.xml" value="0.25" />
+        <entry key="..\:/myhealth/app/src/main/res/layout/content_netmed.xml" value="0.234375" />
+        <entry key="..\:/myhealth/app/src/main/res/layout/content_scrolling.xml" value="0.25" />
+        <entry key="..\:/myhealth/app/src/main/res/layout/fragment_discussion.xml" value="0.2359375" />
+        <entry key="..\:/myhealth/app/src/main/res/layout/fragment_first.xml" value="0.25" />
+        <entry key="..\:/myhealth/app/src/main/res/layout/fragment_second.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

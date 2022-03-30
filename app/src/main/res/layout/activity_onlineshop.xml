@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".MainActivity">
+
+
+    <ImageButton
+        android:id="@+id/pharmeasy"
+        android:layout_width="159dp"
+        android:layout_height="150dp"
+        android:background="@color/white"
+        android:scaleType="centerCrop"
+        android:src="@drawable/pharmeasy"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.103"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.654"
+        tools:srcCompat="@drawable/pharmeasy" />
+
+    <ImageButton
+        android:id="@+id/netmed"
+        android:layout_width="159dp"
+        android:layout_height="150dp"
+        android:background="@color/white"
+        android:scaleType="centerCrop"
+        android:src="@drawable/shop"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.876"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.654"
+        tools:srcCompat="@drawable/netmeds" />
+
+    <ImageButton
+        android:id="@+id/onemg"
+        android:layout_width="159dp"
+        android:layout_height="150dp"
+        android:background="@color/pink"
+        android:scaleType="centerCrop"
+        android:src="@drawable/onemg"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.876"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.277"
+        tools:srcCompat="@drawable/onemg" />
+
+    <ImageButton
+
+        android:id="@+id/appolopharmacy"
+        android:layout_width="159dp"
+        android:layout_height="150dp"
+        android:background="@color/pink"
+        android:scaleType="centerCrop"
+        android:src="@drawable/appolo"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.103"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.277"
+        tools:srcCompat="@drawable/appolo" />
+</androidx.constraintlayout.widget.ConstraintLayout>
