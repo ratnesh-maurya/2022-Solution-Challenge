@@ -19,7 +19,7 @@ Enable the developer mode on your phone and connect it to your computer with the
 
 # 5
 ---------
-Once you clone the repository,open the project in your android studio.
+Once you clone the repository, open the project in your android studio.
 
 # 6 
 ----------
